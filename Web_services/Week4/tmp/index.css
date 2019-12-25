@@ -1,0 +1,25 @@
+.ui-widget.ui-widget-content {
+    border: none !important;
+}
+.spinner {
+    width: 100px;
+}
+.top_bar {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.top_bar__input {
+    border-radius: 14px;
+}
+.top_bar__title {
+    display: inline-block;
+}
+.ui-spinner ui-corner-all ui-widget ui-widget-content{
+	background-color: grey;
+}
+.media {
+	height: 300px;
+}
+.avatarka {
+	height: 30px
+}
